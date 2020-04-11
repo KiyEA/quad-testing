@@ -1,0 +1,8 @@
+C:\Users\1111\source\repos\quad-testing\InputFile\bin\Debug\netstandard2.0\InputFile.deps.json
+C:\Users\1111\source\repos\quad-testing\InputFile\bin\Debug\netstandard2.0\InputFile.dll
+C:\Users\1111\source\repos\quad-testing\InputFile\bin\Debug\netstandard2.0\InputFile.pdb
+C:\Users\1111\source\repos\quad-testing\InputFile\obj\Debug\netstandard2.0\InputFile.csprojAssemblyReference.cache
+C:\Users\1111\source\repos\quad-testing\InputFile\obj\Debug\netstandard2.0\InputFile.AssemblyInfoInputs.cache
+C:\Users\1111\source\repos\quad-testing\InputFile\obj\Debug\netstandard2.0\InputFile.AssemblyInfo.cs
+C:\Users\1111\source\repos\quad-testing\InputFile\obj\Debug\netstandard2.0\InputFile.dll
+C:\Users\1111\source\repos\quad-testing\InputFile\obj\Debug\netstandard2.0\InputFile.pdb
